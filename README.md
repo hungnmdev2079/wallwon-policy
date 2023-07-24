@@ -2,7 +2,7 @@
 ## Privacy Policy
 **WallWon** values the privacy of our users and is committed to protecting their personal information. We do not disclose any user data to third parties without the explicit consent of the user.
 
-We only collect personal information that is necessary for the functioning of our site, such as email address. This information is only used to provide the services requested by the user and is not shared with any external parties.
+We only collect personal information that is necessary for the functioning of our application, such as email address. This information is only used to provide the services requested by the user and is not shared with any external parties.
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These measures include implementing physical, electronic, and managerial procedures to safeguard and secure the information we collect.
 
